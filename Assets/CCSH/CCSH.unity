@@ -416,7 +416,7 @@ PrefabInstance:
       objectReference: {fileID: 50519917150399442, guid: 3d7a37408f5a61c4fb0f7a3a5a5a9772, type: 3}
     - target: {fileID: 927739088433880956, guid: 3d7a37408f5a61c4fb0f7a3a5a5a9772, type: 3}
       propertyPath: m_SelectedEditorRenderState
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5509065400280440451, guid: 3d7a37408f5a61c4fb0f7a3a5a5a9772, type: 3}
       propertyPath: m_RootOrder
