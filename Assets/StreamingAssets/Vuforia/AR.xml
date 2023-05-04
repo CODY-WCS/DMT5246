@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="IMG_1106" size="1.000000 0.732283" />
+    <ImageTarget name="eaf7b5e3bcbfaa64" size="1.000000 0.732283" />
+    <ImageTarget name="cb9297a8832eb310" size="1.000000 0.732283" />
+    <ImageTarget name="Level03" size="1.000000 0.562500" />
+    <ImageTarget name="Level02" size="1.000000 0.562500" />
+    <ImageTarget name="Level01" size="1.000000 0.562500" />
+  </Tracking>
+</QCARConfig>

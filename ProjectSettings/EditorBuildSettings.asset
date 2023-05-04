@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CCSH/CCSH.unity
+    guid: 16c3ac3101f04fe48b94104a28c2b17d
   m_configObjects: {}
